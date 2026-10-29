@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Venkatesh 👋
 
-<!--
-**venkatesh-ML-DS/Venkatesh-ML-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GET - Industrial Automation Trainee @Yokogawa India | Bangalore
 
-Here are some ideas to get you started:
+I build AIML solutions for Industrial Automation:
+🔹 OT Cyber Threat Detection - NLP - 79% Accuracy - Applicable to CENTUM VP DCS logs
+🔹 DocuChat RAG - Ask questions from CENTUM VP manuals - Built with Gemini
+🔹 Real-time Object Detection - For TauRob inspection drones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since 3rd year - Building AIML | Now focusing on Exaquantum + Predictive Maintenance
+
+Tech: Python | NLP | RAG | TensorFlow | CENTUM VP | Exaquantum
+
+📫 Let's connect for Adv. Solutions & Digital Transformation POCs!
